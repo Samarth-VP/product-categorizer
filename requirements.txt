@@ -1,0 +1,8 @@
+streamlit
+transformers
+torch
+scikit-learn
+pandas
+joblib
+openpyxl
+gdown
